@@ -6,7 +6,7 @@
 ### 🤗Attention🤗
 <p align="left">
   <a href="https://velog.io/@wndbsgkr"><img src="https://img.shields.io/badge/Tech%20Blog-9999FF?style=flat-square&logo=Vimeo&logoColor=whiter"/></a>&nbsp
-  <a href="mailto:wndbsgkr8@naver.com"><img src="https://img.shields.io/badge/Mail-07C160?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  <a href="mailto:wndbsgkr@naver.com"><img src="https://img.shields.io/badge/Mail-07C160?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
 
 <br>
